@@ -95,3 +95,9 @@ I learned a lot about,
 3. [Python modules](https://docs.python.org/3/tutorial/modules.html)
 4. Project structers 
 
+## Question 2
+
+## Question 3
+> I used Google Colab for this part as it is easy and fast
+
+[Google Colab](https://colab.research.google.com/drive/15ZwDZz0aHncbOc0RRGzNpmn2TTf2ZiNL?usp=sharing)
