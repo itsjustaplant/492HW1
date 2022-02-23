@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "converter"
+version = "0.1.0"
+description = "Converter module"
+authors = ["itsjustaplant <alperensahin442@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+test = "poetry run pytest tests"
+start = "main:main"
