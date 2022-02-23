@@ -87,5 +87,11 @@ if __name__ == "__main__":
 You can run the main file by `poetry run start`
 And observe the output.
 
+### Result
+I learned a lot about,
 
+1. Semantic versioning
+2. Linters
+3. [Python modules](https://docs.python.org/3/tutorial/modules.html)
+4. Project structers 
 
